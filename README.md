@@ -15,7 +15,7 @@ This repository contains the source code for a full-stack food ordering website/
 
 ## Project Overview
 
-In this tutorial, you will learn to create a complete food ordering system that allows users to browse food items, add them to a cart, and place orders using online payment. The project covers user authentication, shopping cart functionality, order status updates, and more.
+In this project, I have created a complete food ordering system that allows users to browse food items, add them to a cart, and place orders using online payment. The project covers user authentication, shopping cart functionality, order status updates, and more.
 
 ## Features
 
