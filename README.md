@@ -1,4 +1,4 @@
-# Full Stack Food Ordering Website/App
+# Quick Bites Food Ordering Website/App
 
 This repository contains the source code for a full-stack food ordering website/app developed using `React JS`, `MongoDB`, `Express`, `Node JS`, and `Stripe` payment gateway. The project includes a responsive frontend website, an admin panel, and a backend server.
 
