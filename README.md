@@ -33,58 +33,7 @@ In this project, I have created a complete food ordering system that allows user
 - **Backend:** Built with `Node JS` and `Express`, the backend handles API requests and interacts with `MongoDB`.
 - **Admin Panel:** A `React JS`-based panel for administrators to manage the application.
 
-# Installation Guide
 
-## Installation Steps
-
-### 1. Clone the Repository
-Clone the repository to your local machine using the following command:
-
-\```bash
-git clone <repository-url>
-cd food-del
-\```
-
-### 2. Install Dependencies for the Backend
-Navigate to the `backend` directory and install the necessary dependencies:
-
-\```bash
-cd backend
-npm install
-\```
-
-### 3. Install Dependencies for the Frontend
-Next, navigate to the `frontend` directory and install the frontend dependencies:
-
-\```bash
-cd ../frontend
-npm install
-\```
-
-### 4. Set Up Environment Variables
-Create a `.env` file in the `backend` directory and add the following environment variables:
-
-\```env
-MONGO_URI=<your-mongodb-atlas-uri>
-JWT_SECRET=<your-jwt-secret>
-STRIPE_SECRET_KEY=<your-stripe-secret-key>
-\```
-
-### 5. Run the Backend Server
-Start the backend server by running the following command in the `backend` directory:
-
-\```bash
-cd backend
-npm start
-\```
-
-### 6. Run the Frontend Development Server
-Finally, start the frontend development server by running the following command:
-
-\```bash
-cd ../frontend
-npm start
-\```
 
 
 
